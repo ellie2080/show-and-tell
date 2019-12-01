@@ -1,17 +1,21 @@
-picture_path: 2019-12-1-random-art
+picture_path: random-art
 preview:
-  filename: Lichtfestival-0003-2121x1414
-  original: Lichtfestival-0003-2121x1414.jpg
-  #sizes:
-  #- VS-2012-5948-4242x2828.jpg
-  #- VS-2012-5948-2121x1414.jpg
-  #- VS-2012-5948-2999x1999.jpg
-  thumbnail: Lichtfestival-0003-2121x1414.jpg
+  filename: IMG_2016
+  original: IMG_2016.jpg
+  thumbnail: IMG_2016_thumbnail.jpg
 pictures:
+- filename: IMG_2016
+  original: IMG_2016.jpg
+  thumbnail: IMG_2016.jpg
+
 - filename: IMG_2017
   original: IMG_2017.jpg
-  #sizes:
-  #- VS-2012-6013-4242x2828.jpg
-  #- VS-2012-6013-2121x1414.jpg
-  #- VS-2012-6013-2999x1999.jpg
   thumbnail: IMG_2017.jpg
+
+- filename: IMG_2018
+  original: IMG_2018.jpg
+  thumbnail: IMG_2018.jpg
+
+- filename: IMG_2019
+  original: IMG_2019.jpg
+  thumbnail: IMG_2019.jpg
