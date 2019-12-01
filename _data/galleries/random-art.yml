@@ -1,21 +1,21 @@
 picture_path: random-art
 preview:
   filename: IMG_2016
-  original: IMG_2016.jpg
-  thumbnail: IMG_2016_thumbnail.jpg
+  original: IMG_2016.JPG
+  thumbnail: IMG_2016_thumbnail.JPG
 pictures:
 - filename: IMG_2016
-  original: IMG_2016.jpg
-  thumbnail: IMG_2016.jpg
+  original: IMG_2016.JPG
+  thumbnail: IMG_2016.JPG
 
 - filename: IMG_2017
-  original: IMG_2017.jpg
-  thumbnail: IMG_2017.jpg
+  original: IMG_2017.JPG
+  thumbnail: IMG_2017.JPG
 
 - filename: IMG_2018
-  original: IMG_2018.jpg
-  thumbnail: IMG_2018.jpg
+  original: IMG_2018.JPG
+  thumbnail: IMG_2018.JPG
 
 - filename: IMG_2019
-  original: IMG_2019.jpg
-  thumbnail: IMG_2019.jpg
+  original: IMG_2019.JPG
+  thumbnail: IMG_2019.JPG
