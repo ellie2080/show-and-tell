@@ -6,4 +6,4 @@ support: [jquery, gallery]
 ---
 Some random art to get started.
 
-{% include gallery-layout.html gallery=site.data.galleries.san-francisco %}
+{% include gallery-layout.html gallery=site.data.galleries.random-art %}
