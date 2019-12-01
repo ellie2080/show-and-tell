@@ -9,7 +9,7 @@
 title: Ellie's Artwork
 email: eleanor_aylen@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Gallary of Eleanor Aylen's artwork.
+  Gallery of Eleanor Aylen's artwork.
 baseurl: "/show-and-tell" # the subpath of your site, e.g. /blog
 url: "//ellie2080.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
