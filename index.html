@@ -1,20 +1,23 @@
 ---
 layout: default
 ---
-<body>
-    <div class="blurb">
-        <h1>Show and Tell</h1>
-        <p>This is a website to house Ellie's show and tell material and anything else she want. </p>
 
-        <p> Made by Eleanor Aylen (with help from her Dad)</p>
+<div class="home">
 
-        <h3> Show and Tell </h3>
-        <p> Term 3 </p>
-        <ul>
-            <li> WK 10 -  <a href="year1/term3/wk10.html"> School Holidays </a> </li>
+  <h1 class="page-heading">Posts</h1>
 
-        </ul>
-    </div>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-</body>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
