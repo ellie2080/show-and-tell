@@ -3,10 +3,18 @@ preview:
   filename:   IMG_2020
   original:   IMG_2020.JPG
   thumbnail:  IMG_2020.JPG
+
+
 pictures:
   - filename:   IMG_2020
     original:   IMG_2020.JPG
     thumbnail:  IMG_2020.JPG
+    title:      Pikachu
+    caption:    PIKA!
+    date:       1-12-2019
+
   - filename:   IMG_2021
     original:   IMG_2021.JPG
     thumbnail:  IMG_2021.JPG
+    title:      Eevee
+    date:       1-12-2019

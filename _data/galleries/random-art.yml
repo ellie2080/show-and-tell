@@ -3,31 +3,40 @@ preview:
   filename: IMG_2016
   original: IMG_2016.JPG
   thumbnail: IMG_2016_thumbnail.JPG
+
+
 pictures:
-- filename: IMG_2016_rotate
-  original: IMG_2016_rotate.JPG
-  thumbnail: IMG_2016_rotate.JPG
+- filename:   IMG_2016_rotate
+  original:   IMG_2016_rotate.JPG
+  thumbnail:  IMG_2016_rotate.JPG
+  date:       01-10-2019
 
 - filename: IMG_2017
   original: IMG_2017.JPG
   thumbnail: IMG_2017.JPG
+  date:       01-10-2019
 
 - filename: IMG_2018_rotate
   original: IMG_2018_rotate.JPG
   thumbnail: IMG_2018_rotate.JPG
+  date:       01-10-2019
 
 - filename: IMG_2019
   original: IMG_2019.JPG
   thumbnail: IMG_2019.JPG
+  date:       01-10-2019
 
 - filename: IMG_1970
   original: IMG_1970.JPG
   thumbnail: IMG_1970.JPG
+  date:       01-10-2019
 
 - filename:   IMG_1971
   original:   IMG_1971.JPG
   thumbnail:  IMG_1971.JPG
+  date:       01-10-2019
 
 - filename:   IMG_1972
   original:   IMG_1972.JPG
   thumbnail:  IMG_1972.JPG
+  date:       01-10-2019
