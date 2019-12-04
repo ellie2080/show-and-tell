@@ -1,0 +1,37 @@
+picture_path: blueys-art
+preview:
+  filename:     IMG_2030
+  original:     IMG_2030.JPG
+  thumbnail:    IMG_2030.JPG
+
+pictures:
+- filename:   IMG_2030
+  original:   IMG_2030.JPG
+  thumbnail:  IMG_2030.JPG
+  title:      Bluey
+  caption:    Bingo's art (Ellie's wants to pretend Bingo made it)
+  date:       01-10-2019
+
+- filename:   IMG_2031
+  original:   IMG_2031.JPG
+  thumbnail:  IMG_2031.JPG
+  title:      Bluey 2
+  caption:    Head by Ellie, body by Hedra
+  date:       01-10-2019
+
+- filename:   IMG_2028
+  original:   IMG_2028.JPG
+  thumbnail:  IMG_2028.JPG
+  title:      Christams Year
+  caption:    Merry Christmas
+  date:       01-10-2019
+
+- filename:   IMG_2029
+  original:   IMG_2029.JPG
+  thumbnail:  IMG_2029.JPG
+  date:       01-10-2019
+
+- filename:   IMG_2033
+  original:   IMG_2033.JPG
+  thumbnail:  IMG_2033.JPG
+  date:       01-10-2019
