@@ -1,0 +1,21 @@
+picture_path: black-texta
+preview:
+  filename: 20200809_093548
+  original: 20200809_093548.jpg
+  thumbnail: 20200809_093548.jpg
+
+pictures:
+- filename:   20200809_093548
+  original:   20200809_093548.jpg
+  thumbnail:  20200809_093548.jpg
+  date:       01-06-2020  
+
+- filename:   20200809_093359
+  original:   20200809_093359.jpg
+  thumbnail:  20200809_093359.jpg
+  date:       01-06-2020  
+
+- filename:   20200809_093435
+  original:   20200809_093435.jpg
+  thumbnail:  20200809_093435.jpg
+  date:       01-06-2020  

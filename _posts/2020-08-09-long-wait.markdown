@@ -1,0 +1,9 @@
+---
+layout: gallery
+title:  "Long Wait"
+#date:   2020-08-09 10:13 +0930
+support: [jquery, gallery]
+---
+Long wait but here is some more art from Ellie.
+
+{% include gallery-layout.html gallery=site.data.galleries.black-texta %}
