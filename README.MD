@@ -8,7 +8,7 @@ https://ellie2080.github.io/show-and-tell/
 To work on this website.
 1. Open this repo's local folder in VS Code (C:\ellie_website\show-and-tell)
 2. Add photos to assets\photography folder
-3. Make Gallaries out of the photos with .yml files in data\galleries
+3. Make Gallaries out of the photos with .yml files in _data\galleries and .md file in photography
 4. Make post with .md files in _posts
 5. Push changes to github and it will do the rest
 5. ??
