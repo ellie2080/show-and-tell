@@ -1,0 +1,27 @@
+picture_path: This-is-Lockie
+preview:
+  filename:   20200810_193558
+  original:   20200810_193558.JPG
+  thumbnail:  20200810_193558.JPG
+
+
+pictures:
+  - filename:   20200810_193558
+    original:   20200810_193558.JPG
+    thumbnail:  20200810_193558.JPG
+    date:       1-12-2019
+
+  - filename:   20200810_193625
+    original:   20200810_193625.JPG
+    thumbnail:  20200810_193625.JPG
+    date:       1-12-2019
+
+  - filename:   20200810_193644
+    original:   20200810_193644.JPG
+    thumbnail:  20200810_193644.JPG
+    date:       1-12-2019
+
+  - filename:   20200810_193658
+    original:   20200810_193658.JPG
+    thumbnail:  20200810_193658.JPG
+    date:       1-12-2019
